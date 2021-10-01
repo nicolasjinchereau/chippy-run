@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 9a61450c00e0e47a1b4fcc43270a46ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 5089410499963897464, guid: 20d0eab5ba41a8e47b8dd66719a0dced,
+      type: 3}
+  - _boing: {instanceID: 0}
+  - _button: {instanceID: 0}
+  - _clank01: {instanceID: 0}
+  - _clank02: {instanceID: 0}
+  - _clank03: {instanceID: 0}
+  - _clank04: {instanceID: 0}
+  - _death: {instanceID: 0}
+  - _eggCollected: {instanceID: 0}
+  - _falling: {instanceID: 0}
+  - _landing: {instanceID: 0}
+  - _medallionCollected: {instanceID: 0}
+  - _medallionPieceCollected: {instanceID: 0}
+  - _pop: {instanceID: 0}
+  - _snap: {instanceID: 0}
+  - _takeoff: {instanceID: 0}
+  - _treeHit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

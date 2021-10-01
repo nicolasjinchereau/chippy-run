@@ -1,0 +1,24 @@
+<projectSettings>
+  <projectSetting name="com.google.external-dependency-managerAnalyticsCookie" value="0a37aa50806746c19fb360f38f9fcb79" />
+  <projectSetting name="com.google.external-dependency-managerAnalyticsEnabled" value="True" />
+  <projectSetting name="com.google.firebaseAnalyticsCookie" value="9c4bb886588e4a07b3ce9a2e1f389176" />
+  <projectSetting name="com.google.firebaseAnalyticsEnabled" value="True" />
+  <projectSetting name="Google.IOSResolver.AutoPodToolInstallInEditor" value="True" />
+  <projectSetting name="Google.IOSResolver.CocoapodsIntegrationMethod" value="1" />
+  <projectSetting name="Google.IOSResolver.Enabled" value="True" />
+  <projectSetting name="Google.IOSResolver.PodfileEnabled" value="True" />
+  <projectSetting name="Google.IOSResolver.PodToolExecutionViaShellEnabled" value="True" />
+  <projectSetting name="Google.IOSResolver.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="Google.PackageManagerResolver.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="GooglePlayServices.AndroidPackageInstallationEnabled" value="False" />
+  <projectSetting name="GooglePlayServices.AutoResolutionDisabledWarning" value="False" />
+  <projectSetting name="GooglePlayServices.AutoResolveOnBuild" value="False" />
+  <projectSetting name="GooglePlayServices.AutoResolverEnabled" value="False" />
+  <projectSetting name="GooglePlayServices.ExplodeAars" value="False" />
+  <projectSetting name="GooglePlayServices.PatchAndroidManifest" value="False" />
+  <projectSetting name="GooglePlayServices.PromptBeforeAutoResolution" value="False" />
+  <projectSetting name="GooglePlayServices.UseGradleDaemon" value="False" />
+  <projectSetting name="GooglePlayServices.UseJetifier" value="True" />
+  <projectSetting name="GooglePlayServices.VerboseLogging" value="False" />
+</projectSettings>

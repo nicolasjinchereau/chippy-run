@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bbc3e59453f874e46ab449101ca7d37c
+timeCreated: 1500003852
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snakeEggPrefab: {fileID: 100000, guid: 2084b8dec06380a48be327d99e5390a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
